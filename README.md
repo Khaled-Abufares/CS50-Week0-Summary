@@ -1,5 +1,5 @@
-> **بِسْمِ اللَّهِ الرَّحْمَـٰنِ الرَّحِيمِ**
 CS50 Week 0: Introduction to Computer Science
+> **بِسْمِ اللَّهِ الرَّحْمَـٰنِ الرَّحِيمِ**
 
 Course Overview
 

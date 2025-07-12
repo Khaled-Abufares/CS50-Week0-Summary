@@ -139,5 +139,6 @@ Week 0 Lecture Notes
 Problem Set 0
 
 
-Note: This resource is extremely helpful for learning programming. However, it may contain background music or occasional images that are not appropriate. Please mute or avoid them as needed.
+>  **Note:**  
+> This educational resource is highly beneficial for understanding programming fundamentals. However, it may include elements — such as background music or certain visual content — that some viewers may prefer to mute or skip according to their personal or ethical considerations.
 

@@ -1,6 +1,4 @@
 CS50 Week 0: Introduction to Computer Science
-> **بِسْمِ اللَّهِ الرَّحْمَـٰنِ الرَّحِيمِ**
-
 Course Overview
 
 CS50 is Harvard University's introduction to computer science and the art of programming. The course begins with Week 0, which covers the fundamental concepts that serve as a foundation for the entire course.
@@ -137,8 +135,3 @@ Scratch Programming Environment
 Week 0 Lecture Notes
 
 Problem Set 0
-
-
->  **Note:**  
-> This educational resource is highly beneficial for understanding programming fundamentals. However, it may include elements — such as background music or certain visual content — that some viewers may prefer to mute or skip according to their personal or ethical considerations.
-
